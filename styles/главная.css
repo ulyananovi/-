@@ -118,10 +118,9 @@ body {
     background-color: #FAE57C; 
     color: #28527A;
     border: none;
-    padding: 20px;
+    padding: 30px;
     font-size: 16px; 
     cursor: pointer;
-    margin-top: 50px;
     border-radius: 50px;
 }
 
@@ -369,7 +368,6 @@ h2 {
     }
 
     .text-fon {
-        top: 70%; 
     }
 
     .menu-item {
@@ -378,11 +376,10 @@ h2 {
       }
 
       .menu {
-        margin-top: 390px
+        margin-bottom: 20px;
     }
 
     .button-yellow {
-        margin-top: 20px;
     }
 }
 
@@ -479,7 +476,7 @@ h2 {
     .button-yellow {
         padding: 12px;
         font-size: 12px; 
-        margin-top: 5px;
+
     }
 
     .menu-item {
@@ -517,7 +514,4 @@ h2 {
         width: 200px;
       }
 
-      .fon {
-        padding-top: 50px;
-      }
 }
