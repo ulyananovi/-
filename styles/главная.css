@@ -369,7 +369,7 @@ h2 {
     }
 
     .text-fon {
-        top: 80vh; 
+        top: 70%; 
     }
 
     .menu-item {
@@ -473,7 +473,7 @@ h2 {
     }
 
     .text-fon {
-        top: 10%; 
+        top: 32vh; 
     }
 
     .button-yellow {
@@ -515,5 +515,9 @@ h2 {
         transform: translateX(-100%);
         transition: .3s;
         width: 200px;
+      }
+
+      .fon {
+        padding-top: 50px;
       }
 }
