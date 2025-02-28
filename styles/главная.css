@@ -381,6 +381,7 @@ h2 {
     }
 
     .button-yellow {
+
     }
 }
 
@@ -416,7 +417,8 @@ h2 {
     }
     
     .search-img {
-        padding-right: 10px;
+        padding-right: 5px;
+        width: 20px;
     }
     
     .two-icons img {
@@ -485,7 +487,7 @@ h2 {
         font-size: 12px;
       }
 
-      .menu {
+    .menu {
         margin-top: 300px
     }
 
@@ -514,5 +516,4 @@ h2 {
         transition: .3s;
         width: 200px;
       }
-
 }
